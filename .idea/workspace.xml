@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bbf163-c739-409d-b2e2-c343d719ed5b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,12 +18,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Variables.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Variables.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Variables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+            <state relative-caret-position="731">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicio2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicio1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ejercicio3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicio3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -42,6 +71,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Variables.js" />
+        <option value="$PROJECT_DIR$/ejercicio1.js" />
+        <option value="$PROJECT_DIR$/ejercicio2.js" />
+        <option value="$PROJECT_DIR$/ejercicio3.js" />
       </list>
     </option>
   </component>
@@ -51,17 +83,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="32" />
-    <option name="width" value="1487" />
-    <option name="height" value="1327" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,11 +108,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="TERMIN&#9;ACTION&#9;ActivateTerminalToolWindow&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -98,10 +132,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.ejercicio3.js">
     <configuration name="Variables.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Variables.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="ejercicio1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ejercicio1.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="ejercicio2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ejercicio2.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="ejercicio3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ejercicio3.js" working-dir="$PROJECT_DIR$" />
+    <list>
+      <item itemvalue="Node.js.Variables.js" />
+      <item itemvalue="Node.js.ejercicio1.js" />
+      <item itemvalue="Node.js.ejercicio3.js" />
+      <item itemvalue="Node.js.ejercicio2.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ejercicio3.js" />
+        <item itemvalue="Node.js.ejercicio2.js" />
+        <item itemvalue="Node.js.ejercicio1.js" />
         <item itemvalue="Node.js.Variables.js" />
       </list>
     </recent_temporary>
@@ -118,24 +164,27 @@
       <updated>1524070935678</updated>
       <workItem from="1524070936835" duration="167000" />
       <workItem from="1524072090008" duration="1990000" />
+      <workItem from="1524586692065" duration="1307000" />
+      <workItem from="1524629769716" duration="2298000" />
+      <workItem from="1524649351838" duration="6667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2157000" />
+    <option name="totallyTimeSpent" value="12429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="32" width="1487" height="1327" extended-state="0" />
-    <editor active="true" />
+    <frame x="683" y="0" width="683" height="728" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1849361" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.03588907" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2490024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293745" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -144,8 +193,26 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46982056" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290938" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -156,8 +223,71 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="731">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
           <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
